@@ -1,0 +1,21 @@
+System Information
+------------------
+
+Public IP: <public IP>
+Private IP: <private IP>
+MAC Address: <masked MAC address>
+
+Top 5 Processes by CPU Usage:
+PID PPID CMD %MEM %CPU
+<process details>
+
+Memory Usage:
+              total        used        free      shared  buff/cache   available
+Mem:           <memory>
+Swap:          <swap>
+
+Active System Services:
+<service details>
+
+Top 10 Largest Files in /home:
+<file details>
