@@ -30,3 +30,4 @@ systemctl list-units --type=service --state=active
 # Top 10 Largest Files in /home
 echo "Top 10 Largest Files in /home:"
 find /home -type f -exec du -sh {} + | sort -rh | head -n 10
+
